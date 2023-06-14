@@ -1,7 +1,6 @@
 
 ## [ STATUS WINDOW ]
 ### [1. General Information]
-Name: John Vincent A. Lanticse
 
 Summoned date: 1997
 
@@ -12,8 +11,6 @@ Current Condition: Good
 Class: Lv. 3 Computer Engineer
 
 Nationality: Filipino
-
-Alias: John, JV, Jivesss
 
 
 ### [2. Traits]
