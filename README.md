@@ -47,8 +47,8 @@ Nationality: Filipino
 
 ### [5. Links]
 1. <a href="https://www.linkedin.com/in/john-vincent-lanticse" target="_blank"> Linkedin </a>
-1. <a href="https://johnlanticse.win" target="_blank"> Personal </a>
-1. <a href="https://github.com/jivesss" target="_blank"> Github </a>
+1. <a href="https://wiki.ctrlshiftjv.dev" target="_blank"> Personal </a>
+1. <a href="https://github.com/ctrlshiftjv" target="_blank"> Github </a>
 
 
 <sub><sup> Inspired by <a href="https://www.wuxiaworld.com/novel/the-second-coming-of-gluttony" target="_blank"> TSCOG </a></sup></sub>
